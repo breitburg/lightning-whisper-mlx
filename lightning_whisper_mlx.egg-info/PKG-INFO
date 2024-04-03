@@ -8,5 +8,5 @@ Requires-Dist: numpy
 Requires-Dist: torch
 Requires-Dist: tqdm
 Requires-Dist: more-itertools
-Requires-Dist: tiktoken==0.3.3
+Requires-Dist: tiktoken
 Requires-Dist: scipy
